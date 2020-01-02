@@ -24,6 +24,10 @@
  * 包含在新数组中，不为true的元素则跳过；
  * 该参数的第一个参数currentValue为必须参数
  * 该方法不会改变原数组
+ *
+ * 该方法的理解借鉴了以下两位博主
+ * https://www.jianshu.com/p/494226d9dd2c
+ * https://www.cnblogs.com/guangyan/p/6684093.html
  */
 // let nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // let res = nums.filter((num) => {
